@@ -41,10 +41,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jugrajsinghl&show_icons=true&theme=tokyonight" height="180em" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugrajsinghl&layout=compact&theme=tokyonight" height="180em" />
-</p>
+</p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jugrajsinghl&show_icons=true&locale=en&layout=compact" alt="jugrajsinghl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jugrajsinghl&show_icons=true&locale=en" alt="jugrajsinghl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jugrajsinghl&" alt="jugrajsinghl" /></p>
+
 
 ---
 
